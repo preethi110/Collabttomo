@@ -1,6 +1,6 @@
 # tomo
 
-A new Flutter project.
+A flutter collaborative todolist mobile application that works realtime and dynamically.Firebase-firestore realtime database is used to CRUD and other functions.
 
 ## Getting Started
 
