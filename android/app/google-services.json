@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766475330957",
+    "project_id": "tomo-a8e80",
+    "storage_bucket": "tomo-a8e80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766475330957:android:10d3633a94f2ff7ec809c4",
+        "android_client_info": {
+          "package_name": "com.example.tomo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766475330957-gtuf7q02s70t4aknsjed23kd2il3b85b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCactEq_uvYbRygfHo5Oy_KnX5MsVH9oZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766475330957-gtuf7q02s70t4aknsjed23kd2il3b85b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
